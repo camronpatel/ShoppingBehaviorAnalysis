@@ -1,4 +1,4 @@
-# # Shopping Behavior Analysis: Who Spends, When, and on What?
+# Shopping Behavior Analysis: Who Spends, When, and on What?
 
 ## 📊 Project Overview
 
