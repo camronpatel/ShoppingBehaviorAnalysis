@@ -126,11 +126,11 @@ Launch color-specific product lines matched to seasonal preferences. Create urge
 
 ```
 ShoppingBehaviorAnalysis/
-│
-├── shoppingBehaviorFinal.ipynb          # Complete analysis notebook
-├── 4122_CustomerSpending.pdf             # Visual insights report
+├── 4122_CustomerSpending.pdf                 # Visual insights report
 ├── 4122_CustomerSpendingTechnicalReport.pdf  # Technical documentation
-└── README.md                             # This file
+└── README.md                                 # This file
+├── shoppingBehaviorFinal.ipynb               # Complete analysis notebook
+
 ```
 
 ---
